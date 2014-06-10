@@ -1,0 +1,7 @@
+8	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas hydrophila	Aeromonas hydrophila subsp. hydrophila	Aeromonas hydrophila subsp. hydrophila ATCC 7966
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas salmonicida	Aeromonas salmonicida subsp. salmonicida	Aeromonas salmonicida subsp. salmonicida A449
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio sp. EJY3
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex	Enterobacter lignolyticus	Enterobacter lignolyticus SCF1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus	Vibrio vulnificus CMCP6
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azotobacter group	Azotobacter	Azotobacter vinelandii	Azotobacter vinelandii DJ
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter actinomycetemcomitans	Aggregatibacter actinomycetemcomitans ANH9381
